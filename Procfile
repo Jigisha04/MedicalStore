@@ -1,1 +1,1 @@
-web: gunicorn CCMS.wsgi --log-file -
+web: gunicorn MiniMarket.wsgi --log-file -
